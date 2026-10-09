@@ -1,6 +1,6 @@
 # Meridian
 
-**A field guide to the gaps between humans and AI agents.**
+**A field guide to the gaps between humans and AI agents.** Live at [meridian-xi-dun.vercel.app](https://meridian-xi-dun.vercel.app).
 
 [![CI](https://github.com/tetaplaun/meridian/actions/workflows/ci.yml/badge.svg)](https://github.com/tetaplaun/meridian/actions/workflows/ci.yml)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/tetaplaun/meridian)
